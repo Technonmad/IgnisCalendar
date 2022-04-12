@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IgnisCalendar</string>
+
+    <string name="tab_text_1">📅 Календарь</string>
+    <string name="tab_text_2">📌 Все дела</string>
+    <style name="calendarText">
+        <item name="android:textColor">#FAD85C</item>
+    </style>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57375306165",
+    "project_id": "ignis-project",
+    "storage_bucket": "ignis-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57375306165:android:d7583534994f5db0a629fc",
+        "android_client_info": {
+          "package_name": "com.example.igniscalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57375306165-33kbcot76ondc7q95i98j0t7bm4hicfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2iKU_3Q7D0CYEUjZwfIxKh4N8qG3u58w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57375306165-33kbcot76ondc7q95i98j0t7bm4hicfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
